@@ -1,0 +1,393 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Xavier",
+      "surnames": "Velasco Llauradó",
+      "title": "Co-founder at ADAPTICAL",
+      "description": "I'm a full-stack developer with 4+ years of experience who enjoys continuous learning that allows me to polish my skills and learn new ones.\n\nI started working for an AI consulting startup and quickly escalated to tech lead, taking responsibility for technology and developers across the company. I managed teams, I dealt with clients, I planned and supervised projects, but that never stopped me from developing.\n\nI enjoyed it but, 4 years later...\n\nI founded my own company! I built Adaptical from the ground up together with two colleagues. We launched Mathew, an adaptive math education solution for kids and teenagers. I basically managed everything related with technology and worked close together with the product manager to ensure we were offering the best experience possible to our users.\n\nAnd that's all! I still have a long way to go in the industry and still have a lot to learn, and I strongly believe I can contribute a lot to any company that I work in.",
+      "location": {
+        "notes": "Sant Cugat del Vallès"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/Velah"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/velasco-llaurado/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "I really love cooking (and eating)",
+        "fact": "I cook as much as I can every day. I love trying new recipes, improvising and improving my skills through my friends' (harsh) feedback."
+      },
+      {
+        "topic": "I'm passionate about videogames",
+        "fact": "I've been playing videogames all my life. I enjoy them as art.\n\nI play all kind of games. I love single player games, but I also play competitive multiplayer games since I was a teenager."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "ADAPTICAL",
+          "image": {
+            "alt": "A-ADAPTICAL.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/ba01faf4-6588-4c3d-8ec7-0c60359a459d_a-adaptical.svg"
+          },
+          "URL": "https://adaptical.io/"
+        },
+        "roles": [
+          {
+            "name": "Co-founder",
+            "startDate": "2020-07-01",
+            "competences": [
+              {
+                "name": "Celery",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Connecthink Innovation",
+          "image": {
+            "alt": "1634120671888.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/ab9dc4eb-9d9e-4cf0-8004-3bd52bef66e5_1634120671888.jpg"
+          },
+          "URL": "https://www.connecthink.pro/"
+        },
+        "roles": [
+          {
+            "name": "Tech Lead",
+            "startDate": "2021-07-01",
+            "finishDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": "Responsible for the technology of all the company's projects.\n\nI created, expanded and maintained the company's largest and longest running project leading a team of 5 people.\n\nI worked side by side on a daily basis with the CEO and COO of the company. I helped them with recruiting, business strategy and planning of new projects."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Celery",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Ubuntu",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Connecthink Innovation",
+          "image": {
+            "alt": "1634120671888.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/a2fac9d1-3bdd-404a-80a0-f6a1b8c79b05_1634120671888.jpg"
+          },
+          "URL": "https://www.connecthink.pro/"
+        },
+        "roles": [
+          {
+            "name": "Full-stack Developer",
+            "startDate": "2018-11-01",
+            "finishDate": "2021-07-01",
+            "challenges": [
+              {
+                "description": "Responsible for several AI projects. What I did:\n- Project analysis alongside the client and solution proposal\n- AI solution design and implementation (Python Notebooks, Dataiku, Neo4j)\n- System architecture design and implementation (RabbitMQ, Redis, Celery, PostgreSQL, MongoDB, Google Cloud, Ubuntu VM)\n- Web service/website fullstack design and implementation (Django, Vue, Angular, DDD, TDD)\n- API design and implementation (REST, GraphQL, Django Rest Framework)\n\nResponsible for the company’s R&D department\n\nTraining and supervision of all new members of the web development team"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Celery",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NEO4J",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Ubuntu",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan"
+      },
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NEO4J",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "First Certificate in English",
+        "startDate": "2019-07-01",
+        "finishDate": "2019-07-01",
+        "institution": {
+          "name": "University of Oxford",
+          "URL": "https://www.ox.ac.uk/",
+          "image": {
+            "alt": "1539693367639.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/3626811b-ccbe-4c59-bb1c-9c34b2aa7a38_1539693367639.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Telecommunications Engineering",
+        "startDate": "2015-09-01",
+        "finishDate": "2020-05-01",
+        "institution": {
+          "name": "Universitat Autònoma de Barcelona",
+          "URL": "https://uab.cat/",
+          "image": {
+            "alt": "Logo_uab.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/0ff34aff-c018-42d2-a6e3-ae516e2001ce_logo_uab.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computer Engineering",
+        "startDate": "2015-09-01",
+        "finishDate": "2020-05-01",
+        "institution": {
+          "name": "Universitat Autònoma de Barcelona",
+          "URL": "https://uab.cat/",
+          "image": {
+            "alt": "Logo_uab.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/c9aa3d02-d6ae-450c-84fd-1e48220882e9_logo_uab.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "ECDL",
+        "startDate": "2014-09-01",
+        "finishDate": "2014-09-01",
+        "institution": {
+          "name": "ECDL Spain",
+          "URL": "https://www.icdleurope.org/",
+          "image": {
+            "alt": "1519914946082.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/baca8266-0529-40d0-be11-95cd144c3707_1519914946082.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/velasco-llaurado/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
