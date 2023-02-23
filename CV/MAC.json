@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,8 +13,7 @@
       "location": {
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Sant Cugat del Vallès",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Sant Cugat del Vallès"
       }
     },
     "relevantLinks": [
@@ -55,13 +54,8 @@
         },
         "roles": [
           {
-            "name": "Co-founder",
+            "name": "Co-founder and CTO",
             "startDate": "2020-07-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Celery",
@@ -72,11 +66,19 @@
                 "type": "technology"
               },
               {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
                 "name": "REST",
                 "type": "technology"
               },
               {
                 "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               },
               {
@@ -236,16 +238,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
-        "level": "Native or bilingual proficiency"
+        "name": "Catalan"
       },
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -355,7 +354,6 @@
         "finishDate": "2019-07-01",
         "institution": {
           "name": "University of Oxford",
-          "description": "",
           "URL": "https://www.ox.ac.uk/",
           "image": {
             "alt": "1539693367639.jpg",
@@ -371,7 +369,6 @@
         "finishDate": "2020-05-01",
         "institution": {
           "name": "Universitat Autònoma de Barcelona",
-          "description": "",
           "URL": "https://uab.cat/",
           "image": {
             "alt": "Logo_uab.png",
@@ -387,7 +384,6 @@
         "finishDate": "2020-05-01",
         "institution": {
           "name": "Universitat Autònoma de Barcelona",
-          "description": "",
           "URL": "https://uab.cat/",
           "image": {
             "alt": "Logo_uab.png",
@@ -403,7 +399,6 @@
         "finishDate": "2014-09-01",
         "institution": {
           "name": "ECDL Spain",
-          "description": "",
           "URL": "https://www.icdleurope.org/",
           "image": {
             "alt": "1519914946082.jpg",
@@ -460,31 +455,6 @@
         "Full-stack Developer",
         "Tech Lead"
       ]
-    },
-    "status": "openToOffers"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "Python",
-        "type": "technology"
-      },
-      {
-        "name": "Django",
-        "type": "technology"
-      },
-      {
-        "name": "Nuxt.js",
-        "type": "technology"
-      },
-      {
-        "name": "Vue",
-        "type": "technology"
-      },
-      {
-        "name": "TypeScript",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }
