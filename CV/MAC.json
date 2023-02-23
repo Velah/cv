@@ -445,7 +445,15 @@
           "type": "technology"
         },
         {
+          "name": "Nuxt.js",
+          "type": "technology"
+        },
+        {
           "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
           "type": "technology"
         },
         {
@@ -454,6 +462,22 @@
         }
       ],
       "discardedCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "C",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "C++",
+          "type": "technology"
+        },
         {
           "name": "JAVA",
           "type": "technology"
