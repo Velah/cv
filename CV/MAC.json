@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,11 +9,12 @@
       "name": "Xavier",
       "surnames": "Velasco Llauradó",
       "title": "Co-founder and CTO at ADAPTICAL",
-      "description": "I'm a full-stack developer with 5+ years of experience who enjoys continuous learning that allows me to polish my skills and learn new ones.\n\nI started working for an AI consulting startup and quickly escalated to tech lead, taking responsibility for technology and developers across the company. I managed teams, I dealt with clients, I planned and supervised projects, but that never stopped me from developing.\n\nI enjoyed it but, 4 years later...\n\nI founded my own company! I built ADAPTICAL from the ground up together with two colleagues. We launched Mathew, an adaptive math education solution for kids and teenagers. I basically managed everything related with technology and worked close together with all our tech team to ensure we were offering the best experience possible to our users.\n\nAnd that's all! I still have a long way to go in the industry and still have a lot to learn, and I strongly believe I can contribute a lot to any company that I work in.",
+      "description": "",
       "location": {
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Sant Cugat del Vallès"
+        "municipality": "Sant Cugat del Vallès",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -56,6 +57,11 @@
           {
             "name": "Co-founder and CTO",
             "startDate": "2020-07-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Celery",
@@ -238,13 +244,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "Catalan",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -354,6 +363,7 @@
         "finishDate": "2019-07-01",
         "institution": {
           "name": "University of Oxford",
+          "description": "",
           "URL": "https://www.ox.ac.uk/",
           "image": {
             "alt": "1539693367639.jpg",
@@ -369,6 +379,7 @@
         "finishDate": "2020-05-01",
         "institution": {
           "name": "Universitat Autònoma de Barcelona",
+          "description": "",
           "URL": "https://uab.cat/",
           "image": {
             "alt": "Logo_uab.png",
@@ -384,6 +395,7 @@
         "finishDate": "2020-05-01",
         "institution": {
           "name": "Universitat Autònoma de Barcelona",
+          "description": "",
           "URL": "https://uab.cat/",
           "image": {
             "alt": "Logo_uab.png",
@@ -399,6 +411,7 @@
         "finishDate": "2014-09-01",
         "institution": {
           "name": "ECDL Spain",
+          "description": "",
           "URL": "https://www.icdleurope.org/",
           "image": {
             "alt": "1519914946082.jpg",
@@ -455,6 +468,31 @@
         "Full-stack Developer",
         "Tech Lead"
       ]
-    }
+    },
+    "status": "openToOffers"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Django",
+        "type": "technology"
+      },
+      {
+        "name": "Nuxt.js",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ]
   }
 }
