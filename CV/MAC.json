@@ -257,25 +257,13 @@
       },
       {
         "skill": {
-          "name": "Django",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Redis",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Ubuntu",
+          "name": "Nuxt.js",
           "type": "technology"
         }
       },
@@ -287,13 +275,43 @@
       },
       {
         "skill": {
-          "name": "Angular2+",
+          "name": "Ubuntu",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "NEO4J",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -414,5 +432,29 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Nuxt.js",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
+      },
+      {
+        "name": "Django",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ]
   }
 }
