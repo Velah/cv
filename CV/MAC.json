@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,30 +11,16 @@
       "title": "Co-founder and CTO at ADAPTICAL",
       "description": "I'm a full-stack developer with 5+ years of experience who enjoys continuous learning that allows me to polish my skills and learn new ones.\n\nI started working for an AI consulting startup and quickly escalated to tech lead, taking responsibility for technology and developers across the company. I managed teams, I dealt with clients, I planned and supervised projects, but that never stopped me from developing.\n\nI enjoyed it but, 4 years later...\n\nI founded my own company! I built ADAPTICAL from the ground up together with two colleagues. We launched Mathew, an adaptive math education solution for kids and teenagers. I basically managed everything related with technology and worked close together with all our tech team to ensure we were offering the best experience possible to our users.\n\nAnd that's all! I still have a long way to go in the industry and still have a lot to learn, and I strongly believe I can contribute a lot to any company that I work in.",
       "avatar": {
-        "alt": "xavier-velasco.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/23/e2c925cb-c1cb-47cd-9570-8101c09cf024_xavier-velasco.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/23/e2c925cb-c1cb-47cd-9570-8101c09cf024_xavier-velasco.jpg",
+        "alt": "xavier-velasco.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJNXDVpsKWpBIRGRNBMNQkYbE)",
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Sant Cugat del Vallès",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Sant Cugat del Vallès"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/Velah"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/Velah_"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/velasco-llaurado/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "I really love cooking (and eating)",
@@ -44,67 +30,30 @@
         "topic": "I'm passionate about videogames",
         "fact": "I've been playing videogames all my life. I enjoy them as an art.\n\nI play all kind of games. I love single player games, but I also play competitive multiplayer games since I was a teenager."
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/velasco-llaurado/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Velah"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/Velah_"
+      }
     ]
   },
   "experience": {
     "jobs": [
       {
         "organization": {
-          "name": "ADAPTICAL",
-          "image": {
-            "alt": "A-ADAPTICAL.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/ba01faf4-6588-4c3d-8ec7-0c60359a459d_a-adaptical.svg"
-          },
-          "URL": "https://adaptical.io/"
-        },
-        "roles": [
-          {
-            "name": "Co-founder and CTO",
-            "startDate": "2020-07-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
-            "competences": [
-              {
-                "name": "Celery",
-                "type": "technology"
-              },
-              {
-                "name": "Django",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "REST",
-                "type": "technology"
-              },
-              {
-                "name": "Redis",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Connecthink Innovation",
           "image": {
-            "alt": "1634120671888.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/ab9dc4eb-9d9e-4cf0-8004-3bd52bef66e5_1634120671888.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/ab9dc4eb-9d9e-4cf0-8004-3bd52bef66e5_1634120671888.jpg",
+            "alt": "1634120671888.jpg"
           },
           "URL": "https://www.connecthink.pro/"
         },
@@ -165,10 +114,56 @@
       },
       {
         "organization": {
+          "name": "ADAPTICAL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/ba01faf4-6588-4c3d-8ec7-0c60359a459d_a-adaptical.svg",
+            "alt": "A-ADAPTICAL.svg"
+          },
+          "URL": "https://adaptical.io/"
+        },
+        "roles": [
+          {
+            "name": "Co-founder and CTO",
+            "startDate": "2020-07-01",
+            "competences": [
+              {
+                "name": "Celery",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Connecthink Innovation",
           "image": {
-            "alt": "1634120671888.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/a2fac9d1-3bdd-404a-80a0-f6a1b8c79b05_1634120671888.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/a2fac9d1-3bdd-404a-80a0-f6a1b8c79b05_1634120671888.jpg",
+            "alt": "1634120671888.jpg"
           },
           "URL": "https://www.connecthink.pro/"
         },
@@ -248,31 +243,22 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
+        "fullName": "Catalán",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NEO4J",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "Angular2+",
@@ -281,61 +267,7 @@
       },
       {
         "skill": {
-          "name": "Flask",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Django",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Nuxt.js",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ubuntu",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Tailwind",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
+          "name": "Bootstrap",
           "type": "technology"
         }
       },
@@ -347,80 +279,162 @@
       },
       {
         "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NEO4J",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nuxt.js",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Redis",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Bootstrap",
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "First Certificate in English",
-        "startDate": "2019-07-01",
-        "finishDate": "2019-07-01",
-        "institution": {
-          "name": "University of Oxford",
-          "description": "",
-          "URL": "https://www.ox.ac.uk/",
-          "image": {
-            "alt": "1539693367639.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/3626811b-ccbe-4c59-bb1c-9c34b2aa7a38_1539693367639.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Telecommunications Engineering",
-        "startDate": "2015-09-01",
-        "finishDate": "2020-05-01",
-        "institution": {
-          "name": "Universitat Autònoma de Barcelona",
-          "description": "",
-          "URL": "https://uab.cat/",
-          "image": {
-            "alt": "Logo_uab.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/0ff34aff-c018-42d2-a6e3-ae516e2001ce_logo_uab.png"
-          }
-        }
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Computer Engineering",
         "startDate": "2015-09-01",
-        "finishDate": "2020-05-01",
         "institution": {
           "name": "Universitat Autònoma de Barcelona",
-          "description": "",
           "URL": "https://uab.cat/",
           "image": {
-            "alt": "Logo_uab.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/c9aa3d02-d6ae-450c-84fd-1e48220882e9_logo_uab.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/c9aa3d02-d6ae-450c-84fd-1e48220882e9_logo_uab.png",
+            "alt": "Logo_uab.png"
           }
-        }
+        },
+        "finishDate": "2020-05-01"
       },
       {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "ECDL",
         "startDate": "2014-09-01",
-        "finishDate": "2014-09-01",
         "institution": {
           "name": "ECDL Spain",
-          "description": "",
           "URL": "https://www.icdleurope.org/",
           "image": {
-            "alt": "1519914946082.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/baca8266-0529-40d0-be11-95cd144c3707_1519914946082.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/baca8266-0529-40d0-be11-95cd144c3707_1519914946082.jpg",
+            "alt": "1519914946082.jpg"
           }
+        },
+        "finishDate": "2014-09-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "First Certificate in English",
+        "startDate": "2019-07-01",
+        "institution": {
+          "name": "University of Oxford",
+          "URL": "https://www.ox.ac.uk/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/3626811b-ccbe-4c59-bb1c-9c34b2aa7a38_1539693367639.jpg",
+            "alt": "1539693367639.jpg"
+          }
+        },
+        "finishDate": "2019-07-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Telecommunications Engineering",
+        "startDate": "2015-09-01",
+        "institution": {
+          "name": "Universitat Autònoma de Barcelona",
+          "URL": "https://uab.cat/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/08/0ff34aff-c018-42d2-a6e3-ae516e2001ce_logo_uab.png",
+            "alt": "Logo_uab.png"
+          }
+        },
+        "finishDate": "2020-05-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de mentorización",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Inteligencia emocional",
+          "type": "practice"
         }
       }
     ]
@@ -429,8 +443,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/velasco-llaurado/"
+          "URL": "https://www.linkedin.com/in/velasco-llaurado/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Velah",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/Velah_",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "velasco.llaurado@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "626829042",
+          "countryCode": "+34"
         }
       ]
     },
@@ -497,14 +528,10 @@
         "Tech Lead"
       ]
     },
-    "status": "openToOffers"
+    "status": "notAvailable"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
-      {
-        "name": "Python",
-        "type": "technology"
-      },
       {
         "name": "Django",
         "type": "technology"
@@ -514,13 +541,18 @@
         "type": "technology"
       },
       {
-        "name": "Vue",
+        "name": "Python",
         "type": "technology"
       },
       {
         "name": "TypeScript",
         "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
       }
-    ]
+    ],
+    "desiredJobDescription": "I strongly believe that I would fit into a product's tech team. I enjoyed my time in consulting, but where I've really shined the most has been in developing a product. I also liked it better than consulting because I made the project my own from day one.\n\nI have years of experience with startups, so I think I'm a good fit with them since I've always been a multi-role employee and I think I have enough knowledge of the industry."
   }
 }
