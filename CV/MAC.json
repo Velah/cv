@@ -261,19 +261,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Celery",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Claude Code",
           "type": "technology"
         }
       },
@@ -285,7 +279,13 @@
       },
       {
         "skill": {
-          "name": "Flask",
+          "name": "GitHub Copilot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github Actions",
           "type": "technology"
         }
       },
@@ -297,19 +297,13 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "NEO4J",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Nuxt.js",
+          "name": "PostgreSQL",
           "type": "technology"
         }
       },
@@ -334,6 +328,12 @@
       {
         "skill": {
           "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
           "type": "technology"
         }
       },
@@ -539,11 +539,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Django",
+        "name": "Claude Code",
         "type": "technology"
       },
       {
-        "name": "Nuxt.js",
+        "name": "Django",
         "type": "technology"
       },
       {
