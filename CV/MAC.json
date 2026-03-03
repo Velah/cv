@@ -472,6 +472,10 @@
           "type": "technology"
         },
         {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
