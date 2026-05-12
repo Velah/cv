@@ -298,7 +298,7 @@
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Full professional proficiency"
+        "level": "Professional working proficiency"
       },
       {
         "name": "ES",
@@ -571,17 +571,9 @@
         }
       ],
       "preferredRoles": [
-        "Backend Developer",
-        "Developer Evangelist & Advocate",
-        "Director / General Manager",
         "Engineering Management",
-        "Frontend Developer",
         "Full-stack Developer",
-        "Implementation & Solutions Engineer",
-        "Pre-Sales Engineer",
-        "Research Developer",
-        "Tech Lead",
-        "VP of Engineering"
+        "Tech Lead"
       ]
     },
     "status": "searchingActively",
