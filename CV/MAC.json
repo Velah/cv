@@ -137,6 +137,10 @@
             ],
             "competences": [
               {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
                 "name": "Claude Code",
                 "type": "technology"
               },
