@@ -130,6 +130,11 @@
             "name": "Co-founder and CTO",
             "startDate": "2020-06-01",
             "finishDate": "2026-05-01",
+            "challenges": [
+              {
+                "description": "## I built Mathew from the ground up\n\nAt Mathew, I led product and technology as CTO even before the era of large language models (LLMs), when the technology held great promise but was still uncertain. We created practical AI tools for teachers and students, grew from 0 to 150,000 users in a year, and turned that momentum into a true turning point for the business.\n\nThat momentum helped us secure a seed round and move on to the next stage of growth. As CTO, I then built and led a team of 25 people to tackle what lay ahead."
+              }
+            ],
             "competences": [
               {
                 "name": "Celery",
