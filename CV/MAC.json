@@ -181,7 +181,7 @@
           {
             "name": "Full-stack Developer",
             "startDate": "2018-11-01",
-            "finishDate": "2021-07-01",
+            "finishDate": "2020-11-01",
             "challenges": [
               {
                 "description": "Responsible for several AI projects. What I did:\n- Project analysis alongside the client and solution proposal\n- AI solution design and implementation (Python Notebooks, Dataiku, Neo4j)\n- System architecture design and implementation (RabbitMQ, Redis, Celery, PostgreSQL, MongoDB, Google Cloud, Ubuntu VM)\n- Web service/website fullstack design and implementation (Django, Vue, Angular, DDD, TDD)\n- API design and implementation (REST, GraphQL, Django Rest Framework)\n\nResponsible for the company’s R&D department\n\nTraining and supervision of all new members of the web development team"
