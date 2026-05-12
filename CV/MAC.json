@@ -133,11 +133,23 @@
             ],
             "competences": [
               {
-                "name": "Celery",
+                "name": "Claude Code",
+                "type": "technology"
+              },
+              {
+                "name": "Codex (Open AI)",
                 "type": "technology"
               },
               {
                 "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Github Actions",
                 "type": "technology"
               },
               {
@@ -150,6 +162,10 @@
               },
               {
                 "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
                 "type": "technology"
               },
               {
