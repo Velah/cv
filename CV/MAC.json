@@ -128,7 +128,8 @@
         "roles": [
           {
             "name": "Co-founder and CTO",
-            "startDate": "2020-07-01",
+            "startDate": "2020-06-01",
+            "finishDate": "2026-05-01",
             "competences": [
               {
                 "name": "Celery",
