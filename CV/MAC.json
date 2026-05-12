@@ -97,6 +97,10 @@
                 "type": "technology"
               },
               {
+                "name": "React",
+                "type": "technology"
+              },
+              {
                 "name": "Redis",
                 "type": "technology"
               },
